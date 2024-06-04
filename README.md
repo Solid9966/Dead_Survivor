@@ -1,2 +1,2 @@
 # Dead_Survivor
-DeadSuvivor Unity File
+DeadSuvivor Unity Game Clone repository
